@@ -15,6 +15,11 @@ git remote add origin link-of-the-project
 git remote -v (check the remote link of the local project)
 ```
 
+### Other Git Commands
+```sh
+git pull (origin master) # pull changes from other sources to local
+```
+
 ### Some command line basic
 ```sh
 mkdir name-of-the-folder # create folder
